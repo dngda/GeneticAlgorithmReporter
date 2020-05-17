@@ -6,6 +6,7 @@ the algorithm that I write here is based on "Genetic Algorithm for Solving Simpl
 
 ## How to use it
 Download it from [releases](https://github.com/mfaizudd/GeneticAlgorithmReporter/releases "releases") section
+
 Download .NET Core runtime from [this website](https://dotnet.microsoft.com/download/dotnet-core/3.1 "dotnet") and choose your operating system
 
 and run it in command line:
